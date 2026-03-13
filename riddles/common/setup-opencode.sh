@@ -236,3 +236,4 @@ fi
 echo ""
 echo -e "  Run ${BLUE}opencode${NC} to start coding."
 echo ""
+

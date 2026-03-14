@@ -139,12 +139,6 @@ CAST AI rebalancing will:
 4. **Rebalancing takes a few minutes** - CAST AI needs to move workloads and remove old nodes
 5. **PDBs are already configured** - rebalancing can safely evict pods without downtime
 
-## Reset
-
-```bash
-./reset.sh
-```
-
 ## Next Steps
 
 After completing this riddle:

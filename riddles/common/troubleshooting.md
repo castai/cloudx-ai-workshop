@@ -454,7 +454,6 @@ nslookup google.com
 
 2. **Use namespace isolation**:
    - Don't mix riddles in same namespace
-   - Reset riddles with `./reset.sh`
 
 3. **Monitor resources**:
    ```bash

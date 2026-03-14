@@ -101,12 +101,6 @@ You'll see memory at ~60Mi during initial operation. After ~90 seconds, the work
 - All replicas running stably
 - Resource requests and limits set appropriately for the workload
 
-## Reset
-
-```bash
-./reset.sh
-```
-
 ## Next Steps
 
 Once complete, move to [Riddle 3: End-to-End Optimization](../05-riddle/)

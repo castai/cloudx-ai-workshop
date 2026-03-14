@@ -73,12 +73,6 @@ The dashboard shows live order processing status and will reflect your progress 
 
 All 10 checks must pass to complete the riddle.
 
-## Reset
-
-```bash
-./reset.sh
-```
-
 ## Hints
 
 If you get stuck, check [hints.md](hints.md) for progressive hints.
